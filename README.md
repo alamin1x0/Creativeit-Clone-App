@@ -7,7 +7,7 @@
 <center>
 <img src="screenshots/1.png"  width="300" height=auto>
 
-<img src="screenshots/2.png" width="300" height=auto>
+<img src="screenshots/2.png" width="350" height=auto>
 
-<img src="screenshots/3.png"  width="300" height=auto>
+<img src="screenshots/3.png"  width="320" height=auto>
 </center>
