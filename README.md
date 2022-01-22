@@ -1,8 +1,8 @@
-# UiClone-Creativeitinstitute
+# Creativeit-Clone-App
 
 
 
-<a id="raw-url" href="https://github.com/alamin1x0/Creativeit-Clone-App/blob/main/apk/creative%20it%20clone%20app.apk"><img src="img/download.svg"  width="180" height=auto>
+<a id="raw-url" href="apk/creative it clone app.apk?raw=true"><img src="img/download.svg"  width="180" height=auto>
 
 </a>
 
