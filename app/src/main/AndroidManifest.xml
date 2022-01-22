@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.it">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/icon"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.IT">
+
+        <activity
+            android:name=".Nav.FAQ"
+            android:screenOrientation="portrait"
+            android:exported="true" />
+        <activity
+            android:name=".Nav.EVENT"
+            android:screenOrientation="portrait"
+            android:exported="true" />
+        <activity
+            android:name=".Nav.CONTACT"
+            android:screenOrientation="portrait"
+            android:exported="true" />
+        <activity
+            android:name=".Nav.REGISTRATION"
+            android:screenOrientation="portrait"
+            android:exported="true" />
+        <activity
+            android:name=".Nav.NOTICES"
+            android:screenOrientation="portrait"
+            android:exported="true" />
+        <activity
+            android:name=".Nav.ROUTINES"
+            android:screenOrientation="portrait"
+            android:exported="true" />
+        <activity
+            android:name=".Nav.SEMINAR"
+            android:screenOrientation="portrait"
+            android:exported="true" />
+        <activity
+            android:name=".Nav.ABOUT"
+            android:screenOrientation="portrait"
+            android:exported="true" />
+        <activity
+            android:name=".SlapScreen"
+            android:screenOrientation="portrait"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:screenOrientation="portrait"
+            android:name=".MainActivity"
+            android:exported="true" />
+    </application>
+
+</manifest>

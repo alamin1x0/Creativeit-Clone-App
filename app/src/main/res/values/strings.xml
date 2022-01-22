@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">IT</string>
+    <string name="open">OPEN</string>
+    <string name="close">CLOSE</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="to_see_your_routine_enter_secret_key_n_by_quality_management_team_of_creative_it_institute">To See Your Routine, Enter Secret Key \n Provided By Quality Management Team of Creative IT Institute.</string>
+    <string name="text2">If you face Any problem to access \n your routine please contact with  \n quality management team of  \n creative it institute.</string>
+</resources>

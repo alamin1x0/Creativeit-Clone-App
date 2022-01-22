@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#1C2E46</color>
+    <color name="purple_500">#1C2E46</color>
+    <color name="purple_700">#D3D1D1</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="iconTitileColor">#B4878282</color>
+    <color name="iconTitileColor1">#B43C3838</color>
+    <color name="red">#C1140B</color>
+
+
+
+    <color name="primary">#1C2E46</color>
+    <color name="primary_dark">#4274B8</color>
+    <color name="primary_darktext">#9C5F06</color>
+    <color name="primary_text">#1C2E46</color>
+
+    <color name="gray">#cdc9c3</color>
+    <color name="green">#c6ebc9</color>
+    <color name="lightgreen">#cfffa5</color>
+    <color name="skyblue">#a7c5eb</color>
+    <color name="pink">#f3e6e3</color>
+    <color name="color1">#efbbcf</color>
+    <color name="color2">#d6b0b1</color>
+    <color name="color3">#ccf6c8</color>
+    <color name="color4">#EFD8B1</color>
+    <color name="color5">#e5cfe5</color>
+
+
+
+    <color name="common_google_signin_btn_text_dark_default">@android:color/white</color>
+    <color name="common_google_signin_btn_text_dark_disabled">#1f000000</color>
+    <color name="common_google_signin_btn_text_dark_focused">@android:color/black</color>
+    <color name="common_google_signin_btn_text_dark_pressed">@android:color/white</color>
+    <color name="common_google_signin_btn_text_light_default">#90000000</color>
+    <color name="common_google_signin_btn_text_light_disabled">#1f000000</color>
+    <color name="common_google_signin_btn_text_light_focused">#90000000</color>
+    <color name="common_google_signin_btn_text_light_pressed">#de000000</color>
+    <color name="notification_action_color_filter">#ffffffff</color>
+    <color name="notification_icon_bg_color">#ff9e9e9e</color>
+    <color name="ripple_material_light">#1f000000</color>
+    <color name="secondary_text_default_material_light">#8a000000</color>
+
+    <color  name="notification_template_icon_bg">#3333b5e5</color>
+    <color  name="notification_template_icon_bg2">#5EFAC913</color>
+    <color  name="notification_template_icon_low_bg">#0cffffff</color>
+
+
+</resources>

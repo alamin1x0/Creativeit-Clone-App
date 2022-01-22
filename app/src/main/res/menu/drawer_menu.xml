@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <group android:id="@+id/my_move">
+        <item android:title="ABOUT US"
+            android:id="@+id/aboutus"
+            android:icon="@drawable/about"/>
+    </group>
+    <group  android:id="@+id/my_move1">
+    <item android:title="SEMINAR"
+        android:icon="@drawable/seminar_icon"
+        android:id="@+id/seminar"/>
+
+    </group>
+    <group  android:id="@+id/my_move2">
+    <item android:title="ROUTINES"
+        android:icon="@drawable/routine"
+        android:id="@+id/routines"/>
+    </group>
+    <group  android:id="@+id/my_move22">
+
+    <item android:title="NOTICES"
+        android:icon="@drawable/notice"
+        android:id="@+id/notices"/>
+    </group>
+    <group  android:id="@+id/my_move222">
+    <item android:title="REGISTRATION"
+        android:icon="@drawable/registration"
+        android:id="@+id/registration"/>
+    </group>
+    <group android:id="@+id/my_move223">
+    <item android:title="FAQ"
+        android:icon="@drawable/faq"
+        android:id="@+id/faq"/>
+    </group>
+    <group  android:id="@+id/my_move56">
+    <item android:title="CONTACT"
+        android:icon="@drawable/contact"
+        android:id="@+id/contact"/>
+    </group>
+    <group  android:id="@+id/my_move56r5t">
+    <item android:title="EVENT"
+        android:id="@+id/event"
+        android:icon="@drawable/event"/>
+    </group>
+    <group  android:id="@+id/my_move6765">
+    <item android:title="UPDATE"
+        android:id="@+id/update"
+        android:icon="@drawable/update"/>
+    </group>
+
+
+
+
+
+
+</menu>
